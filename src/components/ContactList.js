@@ -262,7 +262,7 @@ class ContactList extends Component {
             underlineColorAndroid="transparent"
             placeholderTextColor="#74787f"
             autoCapitalize="none"
-            placeholder="Ex: Xelpmoc Mobile Team"
+            placeholder="Enter your goup name"
             onChangeText={this.handleGroupName}
           />
 
