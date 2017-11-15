@@ -1,0 +1,2 @@
+export  const RESTORETEXT="RESTORETEXT"
+export  const UPDATETEXT="UPDATETEXT"
